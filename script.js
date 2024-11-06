@@ -1,0 +1,12 @@
+var user=prompt('Имя:')
+console.log('Имя' + user)
+var user=prompt('Фамилия:')
+console.log('Фамилия' + user)
+var user=prompt('Возраст:')
+console.log('Возраст' + user)
+var user=prompt('Любимый предмет:')
+console.log('Любимый предмет' + user)
+var user=prompt('Место проживания:')
+console.log('Место проживания' + user)
+alert(`Спасибо за  информацию`)
+
